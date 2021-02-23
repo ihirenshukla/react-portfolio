@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.a471fc15.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.863bfe72.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.863bfe72.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.5c871b78.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.5c871b78.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/react-portfolio/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.0f5b73c1.chunk.js": "/react-portfolio/static/js/2.0f5b73c1.chunk.js",
+    "static/js/2.0f5b73c1.chunk.js.map": "/react-portfolio/static/js/2.0f5b73c1.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/react-portfolio/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.a471fc15.chunk.css.map": "/react-portfolio/static/css/main.a471fc15.chunk.css.map",
+    "static/js/2.0f5b73c1.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0f5b73c1.chunk.js.LICENSE.txt",
+    "static/media/DIGITAL-MARKETING.7ec02c54.jpg": "/react-portfolio/static/media/DIGITAL-MARKETING.7ec02c54.jpg",
+    "static/media/Vd9Q2GcI0c.14637030.svg": "/react-portfolio/static/media/Vd9Q2GcI0c.14637030.svg",
+    "static/media/android.8dfdffc0.png": "/react-portfolio/static/media/android.8dfdffc0.png",
+    "static/media/app.d491b82e.jpg": "/react-portfolio/static/media/app.d491b82e.jpg",
+    "static/media/artificial.40ff9313.jpg": "/react-portfolio/static/media/artificial.40ff9313.jpg",
+    "static/media/game.450a5c0f.png": "/react-portfolio/static/media/game.450a5c0f.png",
+    "static/media/hrn.6898077e.svg": "/react-portfolio/static/media/hrn.6898077e.svg",
+    "static/media/marketing.8c77b450.jfif": "/react-portfolio/static/media/marketing.8c77b450.jfif",
+    "static/media/software.88ad6cc4.jpg": "/react-portfolio/static/media/software.88ad6cc4.jpg",
+    "static/media/web.42262aae.jpg": "/react-portfolio/static/media/web.42262aae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c871b78.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.0f5b73c1.chunk.js",
+    "static/css/main.a471fc15.chunk.css",
+    "static/js/main.863bfe72.chunk.js"
+  ]
+}
